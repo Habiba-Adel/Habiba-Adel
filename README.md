@@ -1,8 +1,9 @@
-#  وَاللَّهُ أَرْحَمُ بِالْفَتَى مِن نَفْسِهِ 
-فَاعْمَلْ فَمَا كُلِّفْتَ مَا لَمْ تَسْتَطِعْ!  🤍
+<div dir="rtl">
 
-![Welcome GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
-*Let this little GIF welcome you to my GitHub space!* 🚀
+# 🤍 وَاللَّهُ أَرْحَمُ بِالْفَتَى مِن نَفْسِهِ
+# 🤍 فَاعْمَلْ فَمَا كُلِّفْتَ مَا لَمْ تَسْتَطِعْ!
+
+</div>
 
 ---
 
@@ -32,4 +33,4 @@
 
 ---
 
-Thanks for visiting my GitHub! 😄  
+**Thanks for visiting my GitHub! 😄**
