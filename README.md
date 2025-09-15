@@ -1,7 +1,9 @@
-<div dir="rtl">
+<div align="center">
 
-# 🤍 وَاللَّهُ أَرْحَمُ بِالْفَتَى مِن نَفْسِهِ
-# 🤍 فَاعْمَلْ فَمَا كُلِّفْتَ مَا لَمْ تَسْتَطِعْ!
+# ✨ W E L C O M E  T O  M Y  G I T H U B ! ✨
+
+<sub>وَاللَّهُ أَرْحَمُ بِالْفَتَى مِن نَفْسِهِ  
+فَاعْمَلْ فَمَا كُلِّفْتَ مَا لَمْ تَسْتَطِعْ! 🤍</sub>
 
 </div>
 
@@ -18,14 +20,6 @@
 
 ---
 
-## 📫 Connect with Me
-
-| Email | LinkedIn |
-|-------|----------|
-| [habibaabdelgowad9@gmail.com](mailto:habibaabdelgowad9@gmail.com) | [linkedin.com/in/habibaabdelgowad](https://www.linkedin.com/in/habibaabdelgowad) |
-
----
-
 ## 📊 GitHub Stats
 
 ![Habiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Habiba-Adel&show_icons=true&theme=radical)
@@ -33,4 +27,4 @@
 
 ---
 
-**Thanks for visiting my GitHub! 😄**
+**🌟 Thanks for visiting my GitHub! 😄**
