@@ -1,8 +1,8 @@
 <div align="center">
 
-# ✨ W E L C O M E  T O  M Y  G I T H U B ! ✨
+![Typing Welcome](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=500&color=FF69B4&width=600&lines=Welcome+to+my+GitHub!)
 
-<sub>وَاللَّهُ أَرْحَمُ بِالْفَتَى مِن نَفْسِهِ  
+### <sub>وَاللَّهُ أَرْحَمُ بِالْفَتَى مِن نَفْسِهِ  
 فَاعْمَلْ فَمَا كُلِّفْتَ مَا لَمْ تَسْتَطِعْ! 🤍</sub>
 
 </div>
