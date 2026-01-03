@@ -26,7 +26,7 @@
 ## 📊 GitHub Stats
 
 ![Habiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Habiba-Adel&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Habiba-Adel&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Habiba-Adel&layout=compact&theme=radical)
 
 ---
 
