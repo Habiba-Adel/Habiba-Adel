@@ -24,10 +24,8 @@
 ---
 
 ## 📊 GitHub Stats
-
-![Habiba's GitHub stats](https://github-readme-stats-git-main-rickstaa.vercel.app/api?username=habiba-adel&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats-git-main-rickstaa.vercel.app/api/top-langs/?username=habiba-adel&layout=compact&theme=radical)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=habiba-adel&theme=radical)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habiba-adel&theme=radical)
 
 ---
 
